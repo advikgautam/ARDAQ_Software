@@ -1,0 +1,12 @@
+# MATLAB publish output
+html/
+
+# MATLAB autosave / temp files
+*.asv
+*.m~
+*.mat
+slprj/
+
+# OS junk
+.DS_Store
+Thumbs.db
